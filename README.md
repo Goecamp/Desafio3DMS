@@ -12,6 +12,10 @@ Cristian Ricardo Gonzalez Gonzalez (GG222955)
 🎥 Enlace del video:
 https://udbedu-my.sharepoint.com/:v:/g/personal/gg222955_alumno_udb_edu_sv/EZJNIhLEq_hBuFPq9eUP7bABJXNzdtiDd9Ebkot5XE9Yhg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=xgsZKY
 
+API:
+
+https://66ff5f612b9aac9c997f1452.mockapi.io/recursos
+
 ⚙️ Funcionalidades:
 
 
@@ -47,6 +51,5 @@ API: Se requiere una API para la gestión de los recursos de aprendizaje, que de
 📄 Licencia:
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-🖼️ Imagen representativa
 
 
