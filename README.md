@@ -10,7 +10,7 @@ Cristian Ricardo Gonzalez Gonzalez (GG222955)
 
 
 🎥 Enlace del video:
-videoo
+https://udbedu-my.sharepoint.com/:v:/g/personal/gg222955_alumno_udb_edu_sv/EZJNIhLEq_hBuFPq9eUP7bABJXNzdtiDd9Ebkot5XE9Yhg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=xgsZKY
 
 ⚙️ Funcionalidades:
 
